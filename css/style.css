@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+}
+.flex {
+    flex-direction: row wrap;
+    width: 33.3%;
+    background-color: aqua;
+    font-size: 1.3rem;
+}
+p {
+    text-align: center;
+    padding: 1rem;
+}
+.logo {
+    width: 10vw;
+    height: 10vw;
+    margin: 1% 0% 1% 2rem;
+}
